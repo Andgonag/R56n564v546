@@ -1,0 +1,33 @@
+html
+{
+height: 100%;
+width: 100%;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+
+    background-color: rgba(0, 0, 255, 0.525);
+}
+
+/* classes [S] */
+
+.class1{
+    height: 100px;
+    width: 100px;
+
+    background-color: rgb(98, 255, 0);
+
+}
+
+
+
+
+/* classes [E] */
+/* id [S] */
+
+
+
+/* id [E] */
